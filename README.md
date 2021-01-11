@@ -9,7 +9,7 @@
 Mathematician and AI/data-science team leader @seedtag. 
 
 - 🔭 I’m currently working on this README.
-- 🌱 Developing awesome IA services.
+- 🌱 Developing awesome AI services.
 - :elephant: Building stunning data products
 
 ## Currently learning
@@ -21,8 +21,10 @@ Mathematician and AI/data-science team leader @seedtag.
 
 - :camera: photography
 
+
 ## Tools
 
+<!--
 ![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-blue?style=flat-square&logo=tensorflow)
 ![Python Badge](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python)
 ![Haskell Badge](https://img.shields.io/badge/-haskell-5D4F85?style=flat-square&logo=haskell)
@@ -40,6 +42,7 @@ Mathematician and AI/data-science team leader @seedtag.
 
 
 ## Color test
+-->
 ![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Kafka Badge](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white)
