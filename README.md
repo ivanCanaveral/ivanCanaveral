@@ -21,3 +21,13 @@ Mathematician and AI/data-science team leader @seedtag.
 
 - :camera: photography
 
+## Tools
+
+![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-blue?style=flat-square&logo=tensorflow)
+![Python Badge](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python)
+![Haskell Badge](https://img.shields.io/badge/-haskell-5D4F85?style=flat-square&logo=haskell)
+![Docker Badge](https://img.shields.io/badge/-docker-000?style=flat-square&logo=docker)
+![Airflow Badge](https://img.shields.io/badge/-airflow-blue?style=flat-square&logo=apache-airflow)
+![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-000?style=flat-square&logo=kubernetes)
+![GCS Badge](https://img.shields.io/badge/-gcs-blue?style=flat-square&logo=google-cloud)
+![Kafka Badge](https://img.shields.io/badge/-kafka-000?style=flat-square&logo=apache-kafka&logoColor=white)
