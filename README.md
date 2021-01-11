@@ -10,7 +10,7 @@ Mathematician and AI/data-science team leader @seedtag.
 
 - 🔭 I’m currently working on this README.
 - 🌱 Developing awesome AI services.
-- :elephant: Building stunning data products
+- :elephant: Building stunning data products.
 
 ## Currently learning
 
@@ -50,3 +50,4 @@ Mathematician and AI/data-science team leader @seedtag.
 ![MongoDB Badge](https://img.shields.io/badge/-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis Badge](https://img.shields.io/badge/-redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![CUDA Badge](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Jenkins Badge](https://img.shields.io/badge/-jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
