@@ -17,22 +17,9 @@ Mathematician and AI/data-science team leader @seedtag.
 - :octocat: github new features
 - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/scala.svg" color="red" /> scala
 
-## Interests
-
-- :camera: photography
-
-
 ## Tools
 
 <!--
-![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-blue?style=flat-square&logo=tensorflow)
-![Python Badge](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python)
-![Haskell Badge](https://img.shields.io/badge/-haskell-5D4F85?style=flat-square&logo=haskell)
-![Docker Badge](https://img.shields.io/badge/-docker-000?style=flat-square&logo=docker)
-![Airflow Badge](https://img.shields.io/badge/-airflow-blue?style=flat-square&logo=apache-airflow)
-![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-000?style=flat-square&logo=kubernetes)
-![GCS Badge](https://img.shields.io/badge/-gcs-blue?style=flat-square&logo=google-cloud)
-![Kafka Badge](https://img.shields.io/badge/-kafka-000?style=flat-square&logo=apache-kafka&logoColor=white)
 
 ## Color test
 ![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-white?style=flat-square&logo=tensorflow)
@@ -44,6 +31,22 @@ Mathematician and AI/data-science team leader @seedtag.
 ## Color test
 -->
 ![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python Badge](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kafka Badge](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white)
 ![Haskell Badge](https://img.shields.io/badge/-haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vim Badge](https://img.shields.io/badge/-vim-019733?style=flat-square&logo=vim&logoColor=white)
+![GCS Badge](https://img.shields.io/badge/-gcs-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![sklearn Badge](https://img.shields.io/badge/-sklearn-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
+![Airflow Badge](https://img.shields.io/badge/-airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Github Badge](https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white)
+![Pandas Badge](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Grafana Badge](https://img.shields.io/badge/-grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Numpy Badge](https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Prometheus Badge](https://img.shields.io/badge/-prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis Badge](https://img.shields.io/badge/-redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![CUDA Badge](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
