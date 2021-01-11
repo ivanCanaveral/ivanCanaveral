@@ -31,3 +31,16 @@ Mathematician and AI/data-science team leader @seedtag.
 ![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-000?style=flat-square&logo=kubernetes)
 ![GCS Badge](https://img.shields.io/badge/-gcs-blue?style=flat-square&logo=google-cloud)
 ![Kafka Badge](https://img.shields.io/badge/-kafka-000?style=flat-square&logo=apache-kafka&logoColor=white)
+
+## Color test
+![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-white?style=flat-square&logo=tensorflow)
+![Kafka Badge](https://img.shields.io/badge/-kafka-white?style=flat-square&logo=apache-kafka&logoColor=black)
+![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-white?style=flat-square&logo=kubernetes)
+![Haskell Badge](https://img.shields.io/badge/-haskell-white?style=flat-square&logo=haskell&logoColor=5D4F85)
+
+
+## Color test
+![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Kafka Badge](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apache-kafka&logoColor=white)
+![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white)
+![Haskell Badge](https://img.shields.io/badge/-haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
