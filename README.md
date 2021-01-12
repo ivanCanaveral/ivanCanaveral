@@ -38,7 +38,7 @@ Mathematician and AI/data-science team leader @seedtag.
 ![Linux Badge](https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vim Badge](https://img.shields.io/badge/-vim-019733?style=flat-square&logo=vim&logoColor=white)
-![GCS Badge](https://img.shields.io/badge/-gcs-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GCP Badge](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![sklearn Badge](https://img.shields.io/badge/-sklearn-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Airflow Badge](https://img.shields.io/badge/-airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=white)
