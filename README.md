@@ -19,17 +19,6 @@ Mathematician and AI/data-science team leader @seedtag.
 
 ## Tools
 
-<!--
-
-## Color test
-![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-white?style=flat-square&logo=tensorflow)
-![Kafka Badge](https://img.shields.io/badge/-kafka-white?style=flat-square&logo=apache-kafka&logoColor=black)
-![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-white?style=flat-square&logo=kubernetes)
-![Haskell Badge](https://img.shields.io/badge/-haskell-white?style=flat-square&logo=haskell&logoColor=5D4F85)
-
-
-## Color test
--->
 ![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kafka Badge](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apache-kafka&logoColor=white)
