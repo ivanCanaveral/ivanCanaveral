@@ -19,6 +19,8 @@ Mathematician and AI/data-science team leader @seedtag.
 
 ## Tools
 
+<!-- More icons here: https://simpleicons.org/ -->
+
 ![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kafka Badge](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=apache-kafka&logoColor=white)
